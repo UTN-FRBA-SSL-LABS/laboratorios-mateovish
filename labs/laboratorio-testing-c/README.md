@@ -340,6 +340,7 @@ Las líneas con `#####` nunca se ejecutaron — no están cubiertas por los test
 
 > R: En la salida que me tiran los comandos make cobertura, cat carrito.c.gcov me figura que todas las lineas donde hay código en carrito.c (aquellas vacías o donde se cierran llaves no) no fueron ejecutadas, a pesar de que para que corran los tests absolutamente todas estas debieron ejecutarse (y los tests corrieron). Desconozco el motivo.
 
+
 ```
 COBERTURA_COMPLETA=NO
 ```
